@@ -1,0 +1,10 @@
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\bin\Release\KeyboardTest.exe.config
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\bin\Release\KeyboardTest.exe
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\bin\Release\KeyboardTest.pdb
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\obj\Release\KeyboardTest.KeyBoardWindow.resources
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\obj\Release\KeyboardTest.Properties.Resources.resources
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\obj\Release\KeyboardTest.csproj.GenerateResource.cache
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\obj\Release\KeyboardTest.csproj.CoreCompileInputs.cache
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\obj\Release\KeyboardTest.exe
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\obj\Release\KeyboardTest.pdb
+D:\Documents\VSProjects\KeyboardTest\KeyboardTest\obj\Release\KeyboardTest.csprojAssemblyReference.cache
