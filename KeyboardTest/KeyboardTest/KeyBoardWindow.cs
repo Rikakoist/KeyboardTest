@@ -58,5 +58,21 @@ namespace KeyboardTest
                 MessageBox.Show(err.Message, "err", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void ResetInterface(object sender, EventArgs e)
+        {
+            CodeResultLabel.Text = "CodeResult";
+            DataResultLabel.Text = "DataResult";
+            ValueResultLabel.Text = "ValueResult";
+            ButtonHistory.Clear();
+        }
+
+        //自动跟随最新按键结果
+        private void AutoScrollToBottom(object sender, EventArgs e)
+        {
+            ButtonHistory.Focus();
+            ButtonHistory.SelectionStart = ButtonHistory.Text.Length;
+            ButtonHistory.ScrollToCaret();
+        }
     }
 }
